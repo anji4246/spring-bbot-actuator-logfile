@@ -1,0 +1,11 @@
+server:
+  port: 8080
+
+management:
+  endpoint:
+    logfile:
+      external_file: ./logs/spring-boot-logger.log
+  endpoints:
+    web:
+      exposure:
+        include: health,info,logfile

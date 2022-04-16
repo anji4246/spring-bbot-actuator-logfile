@@ -1,0 +1,25 @@
+2022-04-16 20:12:32,755 [main] INFO  {StartupInfoLogger.java:55} [] - Starting LogfileApplication using Java 13.0.2 on Lenovo_X1_Yoga with PID 23104 (D:\anji-blogs\logfile\build\classes\java\main started by krishnavarma in D:\anji-blogs\logfile)
+2022-04-16 20:12:32,883 [main] INFO  {SpringApplication.java:630} [] - No active profile set, falling back to 1 default profile: "default"
+2022-04-16 20:12:40,571 [main] INFO  {TomcatWebServer.java:108} [] - Tomcat initialized with port(s): 8080 (http)
+2022-04-16 20:12:41,184 [main] INFO  {ServletWebServerApplicationContext.java:292} [] - Root WebApplicationContext: initialization completed in 7871 ms
+2022-04-16 20:12:43,067 [main] INFO  {EndpointLinksResolver.java:58} [] - Exposing 3 endpoint(s) beneath base path '/actuator'
+2022-04-16 20:12:43,928 [main] INFO  {TomcatWebServer.java:220} [] - Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-16 20:12:43,997 [main] INFO  {StartupInfoLogger.java:61} [] - Started LogfileApplication in 13.022 seconds (JVM running for 22.075)
+2022-04-16 20:12:44,152 [http-nio-8080-exec-1] INFO  {FrameworkServlet.java:525} [] - Initializing Servlet 'dispatcherServlet'
+2022-04-16 20:12:44,156 [http-nio-8080-exec-1] INFO  {FrameworkServlet.java:547} [] - Completed initialization in 3 ms
+2022-04-16 20:12:54,632 [http-nio-8080-exec-7] INFO  {BaseController.java:17} [] - Sample log message. Logged at: Sat Apr 16 20:12:54 IST 2022
+2022-04-16 20:12:55,453 [http-nio-8080-exec-8] INFO  {BaseController.java:17} [] - Sample log message. Logged at: Sat Apr 16 20:12:55 IST 2022
+2022-04-16 20:12:55,819 [http-nio-8080-exec-9] INFO  {BaseController.java:17} [] - Sample log message. Logged at: Sat Apr 16 20:12:55 IST 2022
+2022-04-16 20:12:56,054 [http-nio-8080-exec-4] INFO  {BaseController.java:17} [] - Sample log message. Logged at: Sat Apr 16 20:12:56 IST 2022
+2022-04-16 20:12:56,241 [http-nio-8080-exec-2] INFO  {BaseController.java:17} [] - Sample log message. Logged at: Sat Apr 16 20:12:56 IST 2022
+2022-04-16 20:12:56,434 [http-nio-8080-exec-3] INFO  {BaseController.java:17} [] - Sample log message. Logged at: Sat Apr 16 20:12:56 IST 2022
+2022-04-16 20:12:56,601 [http-nio-8080-exec-5] INFO  {BaseController.java:17} [] - Sample log message. Logged at: Sat Apr 16 20:12:56 IST 2022
+2022-04-16 20:12:56,991 [http-nio-8080-exec-6] INFO  {BaseController.java:17} [] - Sample log message. Logged at: Sat Apr 16 20:12:56 IST 2022
+2022-04-16 20:12:57,195 [http-nio-8080-exec-7] INFO  {BaseController.java:17} [] - Sample log message. Logged at: Sat Apr 16 20:12:57 IST 2022
+2022-04-16 20:12:57,387 [http-nio-8080-exec-8] INFO  {BaseController.java:17} [] - Sample log message. Logged at: Sat Apr 16 20:12:57 IST 2022
+2022-04-16 20:12:57,616 [http-nio-8080-exec-9] INFO  {BaseController.java:17} [] - Sample log message. Logged at: Sat Apr 16 20:12:57 IST 2022
+2022-04-16 20:12:58,116 [http-nio-8080-exec-10] INFO  {BaseController.java:17} [] - Sample log message. Logged at: Sat Apr 16 20:12:58 IST 2022
+2022-04-16 20:12:58,304 [http-nio-8080-exec-1] INFO  {BaseController.java:17} [] - Sample log message. Logged at: Sat Apr 16 20:12:58 IST 2022
+2022-04-16 20:12:58,483 [http-nio-8080-exec-4] INFO  {BaseController.java:17} [] - Sample log message. Logged at: Sat Apr 16 20:12:58 IST 2022
+2022-04-16 20:12:58,659 [http-nio-8080-exec-2] INFO  {BaseController.java:17} [] - Sample log message. Logged at: Sat Apr 16 20:12:58 IST 2022
+2022-04-16 20:12:58,836 [http-nio-8080-exec-3] INFO  {BaseController.java:17} [] - Sample log message. Logged at: Sat Apr 16 20:12:58 IST 2022
